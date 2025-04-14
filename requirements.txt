@@ -1,0 +1,8 @@
+sentence-transformers==2.5.1
+streamlit==1.12.0
+transformers==4.15.0
+chunkipy
+elasticsearch==8.12.1
+kaggle==1.6.6
+opendatasets==0.1.22
+pandas==2.2.1
